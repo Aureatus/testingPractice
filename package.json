@@ -3,6 +3,6 @@
     "jest": "^27.5.1"
   },
   "scripts": {
-    "watch": "jest"
+    "watch": "jest --watch *.js"
   }
 }
